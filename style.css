@@ -29,6 +29,8 @@ body {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
+    background-color: rgba(26, 19, 19, 0.253);
+
 }
 
 /** Home Css__________________________________________________*/

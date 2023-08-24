@@ -1,6 +1,6 @@
 # Computools
 
-Here are README files for the calculator and password generator HTML pages:
+This is a simple website with a home page and two tools - a calculator and random password generator.
 
 ## Calculator
 
@@ -18,19 +18,13 @@ This is a simple calculator app created with HTML, CSS, and JavaScript.
 
 ### JavaScript
 
-The `calc.js` file contains the logic for the calculator. Key functions:
+The `calc.js` file contains the logic for the calculator. 
 
-- `updateDisplay()` to update what digits are shown
-- `operate()` to compute result of an operation
-- `handleButtonPress()` to handle digit, operator, and other button clicks
 
 ### CSS 
 
 The `style.css` file styles the calculator buttons, display, and layout.
 
-### Assets
-
-The `icons` folder contains the calculator icon image file.
 
 ## Password Generator
 
@@ -54,6 +48,4 @@ The `pass.js` file contains the logic for generating passwords. Key functions:
 
 The `style.css` file styles the password interface.
 
-### Assets
 
-No external assets needed.
